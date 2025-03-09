@@ -36,7 +36,7 @@ carregar.addEventListener('click', function(){
         }
 
 
-    }, 10)
+    }, 100)
 })     
 
 
